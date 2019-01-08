@@ -1,1 +1,4 @@
-DIM i
+Visual Basic
+Code start here
+
+For thanakorn
